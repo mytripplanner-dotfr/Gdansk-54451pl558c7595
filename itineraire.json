@@ -1,0 +1,153 @@
+{
+  "pays": "Pologne",
+  "drapeau": "🇵🇱",
+  "symbole": "⚓",
+  "titre": "Escapade relaxante à Gdańsk: Perle de la Baltique",
+  "budget_total": "620 €",
+  "duree": "3 jours",
+  "temps_vol": "2h00 (depuis Paris, France)",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et immersion dans la Vieille Ville",
+      "legende": "Après un vol direct, installez-vous confortablement et laissez-vous charmer par l'atmosphère historique de la Vieille Ville de Gdańsk. Une balade douce le long de la Motława vous offrira un premier aperçu de la beauté de cette cité portuaire.",
+      "lieu": "Gdańsk",
+      "activites": [
+        "<strong>🛬</strong>: Arrivée à l'aéroport de Gdańsk (GDN) et transfert vers le centre-ville. Profitez du trajet pour admirer les premiers paysages polonais.",
+        "<strong>🛏️</strong>: Installation à votre hôtel 3* au cœur de la Vieille Ville. Prenez le temps de vous rafraîchir et de vous détendre après le voyage.",
+        "<strong>🚶‍♂️</strong>: Balade relaxante sur le Long Marché (Długi Targ) et le long de la Motława. Admirez les façades colorées et le célèbre Grue Médiévale (Żuraw)."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Transfert aéroport",
+          "texte": "L'aéroport de Gdańsk est bien desservi par les bus et les trains. Le trajet vers le centre prend environ 30-40 minutes."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏛️",
+      "titre": "Trésors d'ambre et sérénité fluviale",
+      "legende": "Plongez dans l'histoire fascinante de l'ambre, \"l'or de la Baltique\", avant de profiter d'une croisière paisible sur la Motława. L'après-midi sera dédiée à l'exploration des ruelles calmes et des cafés accueillants de la ville.",
+      "lieu": "Gdańsk",
+      "activites": [
+        "<strong>💎</strong>: Visite du Musée de l'Ambre. Découvrez l'histoire, la formation et l'artisanat lié à cette résine fossilisée, emblème de la région.",
+        "<strong>🚢</strong>: Croisière relaxante sur la Motława. Admirez la ville sous un angle différent, en passant devant les monuments historiques et les chantiers navals.",
+        "<strong>☕</strong>: Pause détente dans un café historique du centre-ville. Savourez une pâtisserie locale et observez l'animation urbaine."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "L'ambre de la Baltique",
+          "texte": "Gdańsk est réputée pour son ambre. Vous trouverez de nombreuses boutiques proposant des bijoux et des objets d'artisanat de qualité."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🌳",
+      "titre": "Nature, spiritualité et départ",
+      "legende": "Commencez la journée par une bouffée d'air frais dans le magnifique Parc Oliwa et sa cathédrale, avant de profiter d'un dernier repas typique. L'après-midi sera consacrée aux derniers achats et au retour vers l'aéroport.",
+      "lieu": "Gdańsk",
+      "activites": [
+        "<strong>🌿</strong>: Promenade au Parc Oliwa et visite de la Cathédrale d'Oliwa. Admirez les jardins à la française et écoutez le célèbre orgue si un concert est programmé.",
+        "<strong>🍽️</strong>: Déjeuner traditionnel polonais. Goûtez aux spécialités locales comme les pierogi ou le barszcz dans un restaurant typique.",
+        "<strong>🛍️</strong>: Derniers achats de souvenirs et transfert vers l'aéroport de Gdańsk (GDN) pour votre vol retour."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🎶",
+          "titre": "Orgue d'Oliwa",
+          "texte": "La Cathédrale d'Oliwa abrite un orgue monumental. Des concerts sont souvent organisés, offrant une expérience acoustique unique."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "A partir de 233 €/pers",
+      "symbole": "🛬"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "Environ 25 €/pers (bus, tram, train local)",
+      "symbole": "🚆"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "Environ 150 €/pers (3 jours, budget moyen)",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "Environ 160 €/pers (2 nuits en hôtel 3* sur base double)",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "Environ 50 €/pers (musées, croisière)",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Mai à Septembre",
+      "symbole": "☀️"
+    },
+    {
+      "titre": "Juin à Août (pour la chaleur)",
+      "symbole": "🏖️"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "La monnaie locale est le Złoty polonais (PLN). Les cartes bancaires sont largement acceptées, mais ayez un peu de liquide pour les petits commerces.",
+      "symbole": "💳"
+    },
+    {
+      "titre": "En mai, les températures à Gdańsk varient généralement entre 8°C et 18°C. Prévoyez des couches de vêtements et un imperméable.",
+      "symbole": "☁️"
+    },
+    {
+      "titre": "Le polonais est la langue officielle. Dans les zones touristiques, l'anglais est souvent parlé, surtout par les jeunes.",
+      "symbole": "🗣️"
+    },
+    {
+      "titre": "Le réseau de transports en commun (bus, tram) est efficace et abordable pour se déplacer dans la ville et ses environs.",
+      "symbole": "🚌"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Vols",
+      "titre": "Réserve ton vol",
+      "url": "https://www.kayak.fr/flights/CDG-GDN/2026-05-13/2026-05-16",
+      "symbole": "🛬"
+    },
+    {
+      "legende": "Infos officielles et inspirations",
+      "titre": "Tourisme Pologne",
+      "url": "https://www.poland.travel/fr",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Transports en commun Gdańsk",
+      "titre": "ZTM Gdańsk",
+      "url": "https://ztm.gda.pl/en/",
+      "symbole": "🚆"
+    },
+    {
+      "legende": "Météo",
+      "titre": "Météo Gdańsk",
+      "url": "https://www.meteofrance.com/previsions-meteo-monde/gdansk/50125",
+      "symbole": "🌤️"
+    }
+  ]
+}
